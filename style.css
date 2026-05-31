@@ -1,9 +1,26 @@
-body{
+body {
     font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
     text-align: center;
-    background-color: #f0f0f0;
+    color: white;
+    margin: 0;
+    padding: 50px;
 }
 
-h1{
-    color: blue;
+.container {
+    background: white;
+    color: black;
+    padding: 30px;
+    border-radius: 15px;
+    width: 60%;
+    margin: auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+h1 {
+    color: #0077cc;
+}
+
+p {
+    font-size: 20px;
 }
